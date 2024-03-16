@@ -5,9 +5,10 @@ using namespace std;
 #include<math.h>
 int main()
 {
-
-	cout << "ÎÒÊÇË§¸ç" << endl;
-	system("pause");
+	
+	cout << "i am handsome " << endl;
+	cout << "yes,you are right" << endl;
+	
 	return 0;
 
 }
